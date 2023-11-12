@@ -1,2 +1,2 @@
 # LLM
-Created an Email Generator LLM app using streamlit, huggigface, LLama2
+Created an Email Generator LLM app using streamlit, hugging face, LLama2
